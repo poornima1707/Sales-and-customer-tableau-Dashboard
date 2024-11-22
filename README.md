@@ -13,8 +13,10 @@ This project involves building two interactive dashboards in Tableau to help sta
 
 
 ## Screenshots
-![Sales Dashboard Overview](./path-to-your-image/Screenshot%20(33).png)
-![Customer Dashboard Overview](./path-to-your-image/Screenshot%20(33).png)
+### Sales Dashboard
+![Sales Dashboard Overview](https://github.com/poornima1707/Sales-and-customer-tableau-Dashboard/blob/main/Sales%20dashboard%20SS.png)
+### Customer Dashboard
+![Customer Dashboard Overview](https://github.com/poornima1707/Sales-and-customer-tableau-Dashboard/blob/main/Customer%20dashboard%20SS.png)
 
 ## Key Features
 
@@ -33,18 +35,12 @@ This project involves building two interactive dashboards in Tableau to help sta
 ---
 
 ## Tools Used
-- **Tableau Desktop**: For creating the dashboards.
+- **Tableau Public**: For creating the dashboards.
 - **Data Source**: [Specify your dataset here, e.g., Sample Superstore Dataset].
 
 ## How to Use
-1. Clone or download this repository.
-2. Open the Tableau workbooks (`.twbx`) in Tableau Desktop.
-3. Interact with filters, visualizations, and drill-downs to explore insights.
+1. My Tableau Public link - [View the Tableau Project](https://public.tableau.com/views/SalesandCustomerDashboard_17322619726210/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+2. [Download the Tableau Workbook]([./Sales_and_Customer_Dashboard.twbx](https://github.com/poornima1707/Sales-and-customer-tableau-Dashboard/blob/main/Sales%20and%20Customer%20Dashboard.twbx)) Open in Tableau Public.
+   Interact with filters, visualizations, and drill-downs to explore insights.
 
-## Screenshots
 
-### Sales Dashboard
-![Sales Dashboard](path-to-sales-dashboard-screenshot)
-
-### Customer Dashboard
-![Customer Dashboard](path-to-customer-dashboard-screenshot)
