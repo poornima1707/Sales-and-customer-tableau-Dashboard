@@ -36,8 +36,11 @@ This project involves building two interactive dashboards in Tableau to help sta
 
 ## Tools Used
 - **Tableau Public**: For creating the dashboards.
-- **Data Source**: [Specify your dataset here, e.g., Sample Superstore Dataset].
-
+- **Data Source**:
+ [Customer](https://github.com/poornima1707/Sales-and-customer-tableau-Dashboard/blob/main/Customers.csv)
+ [Location](https://github.com/poornima1707/Sales-and-customer-tableau-Dashboard/blob/main/Location.csv)
+ [Order](https://github.com/poornima1707/Sales-and-customer-tableau-Dashboard/blob/main/Orders.csv)
+ [Product](https://github.com/poornima1707/Sales-and-customer-tableau-Dashboard/blob/main/Products.csv)
 ## How to Use
 1. My Tableau Public link - [View the Tableau Project](https://public.tableau.com/views/SalesandCustomerDashboard_17322619726210/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 2. [Download the Tableau Workbook]([./Sales_and_Customer_Dashboard.twbx](https://github.com/poornima1707/Sales-and-customer-tableau-Dashboard/blob/main/Sales%20and%20Customer%20Dashboard.twbx)) Open in Tableau Public.
