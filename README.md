@@ -11,7 +11,10 @@ This project involves building two interactive dashboards in Tableau to help sta
    - Highlights customer data, trends, and behaviors.
    - Aims to improve customer segmentation and satisfaction by analyzing demographics and purchasing patterns.
 
----
+
+## Screenshots
+![Sales Dashboard Overview](./path-to-your-image/Screenshot%20(33).png)
+![Customer Dashboard Overview](./path-to-your-image/Screenshot%20(33).png)
 
 ## Key Features
 
